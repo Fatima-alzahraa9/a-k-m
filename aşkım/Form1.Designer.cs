@@ -31,12 +31,12 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             button1 = new Button();
             button2 = new Button();
-            pictureBox1 = new PictureBox();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             textBox3 = new TextBox();
             textBox4 = new TextBox();
             textBox5 = new TextBox();
+            pictureBox1 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -66,17 +66,6 @@
             button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
             // 
-            // pictureBox1
-            // 
-            pictureBox1.Dock = DockStyle.Fill;
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(0, 0);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(609, 702);
-            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
-            pictureBox1.TabIndex = 0;
-            pictureBox1.TabStop = false;
-            // 
             // textBox1
             // 
             textBox1.BackColor = Color.FromArgb(255, 192, 192);
@@ -98,7 +87,7 @@
             textBox2.Location = new Point(40, 76);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(120, 114);
+            textBox2.Size = new Size(120, 144);
             textBox2.TabIndex = 4;
             textBox2.Text = "‏وما احبّبتكُ لأجلُ شيء ولكِن قلبيُ تعلق بكُ .";
             // 
@@ -107,12 +96,12 @@
             textBox3.BackColor = Color.FromArgb(255, 192, 192);
             textBox3.Font = new Font("Segoe Print", 12F, FontStyle.Regular, GraphicsUnit.Point, 162);
             textBox3.ForeColor = Color.Red;
-            textBox3.Location = new Point(445, 76);
+            textBox3.Location = new Point(433, 76);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
-            textBox3.Size = new Size(142, 76);
+            textBox3.Size = new Size(147, 83);
             textBox3.TabIndex = 5;
-            textBox3.Text = "‏يُحِبُّكَ قَلْبِي مَا حَيِيتُ فَإِنْ أَمُتْ";
+            textBox3.Text = "‏لا أحـد اسّعـد منـي وانا معـك";
             // 
             // textBox4
             // 
@@ -135,9 +124,20 @@
             textBox5.Location = new Point(209, 76);
             textBox5.Multiline = true;
             textBox5.Name = "textBox5";
-            textBox5.Size = new Size(179, 75);
+            textBox5.Size = new Size(152, 129);
             textBox5.TabIndex = 7;
             textBox5.Text = "‏أحبُّك لأنك أنت أنت لا شبيه لا مثيل لا بديل لك.";
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Dock = DockStyle.Fill;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(0, 0);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(609, 702);
+            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
+            pictureBox1.TabIndex = 0;
+            pictureBox1.TabStop = false;
             // 
             // Form1
             // 
@@ -164,11 +164,11 @@
         #endregion
         private Button button1;
         private Button button2;
-        private PictureBox pictureBox1;
         private TextBox textBox1;
         private TextBox textBox2;
         private TextBox textBox3;
         private TextBox textBox4;
         private TextBox textBox5;
+        private PictureBox pictureBox1;
     }
 }

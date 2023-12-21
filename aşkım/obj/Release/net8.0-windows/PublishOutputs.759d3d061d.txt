@@ -1,0 +1,5 @@
+C:\askım\aşkım\aşkım\bin\Release\net8.0-windows\app.publish\aşkım.exe
+C:\askım\aşkım\aşkım\bin\Release\net8.0-windows\app.publish\aşkım.dll
+C:\askım\aşkım\aşkım\bin\Release\net8.0-windows\app.publish\aşkım.deps.json
+C:\askım\aşkım\aşkım\bin\Release\net8.0-windows\app.publish\aşkım.runtimeconfig.json
+C:\askım\aşkım\aşkım\bin\Release\net8.0-windows\app.publish\aşkım.pdb
