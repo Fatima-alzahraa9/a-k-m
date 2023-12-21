@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>aşkım</id>
+    <version>1.0.0</version>
+    <authors>aşkım</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="01d4ea2647efc9d86735be98be6d624bffd0374a" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\askım\aşkım\aşkım\bin\Release\net8.0-windows\aşkım.runtimeconfig.json" target="lib\net8.0-windows7.0\aşkım.runtimeconfig.json" />
+    <file src="C:\askım\aşkım\aşkım\bin\Release\net8.0-windows\aşkım.dll" target="lib\net8.0-windows7.0\aşkım.dll" />
+  </files>
+</package>
