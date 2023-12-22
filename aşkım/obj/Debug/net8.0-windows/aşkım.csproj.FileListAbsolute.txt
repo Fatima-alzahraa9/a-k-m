@@ -41,3 +41,4 @@ C:\Users\A\Desktop\aşkım\aşkım\obj\Debug\net8.0-windows\refint\aşkım.dll
 C:\Users\A\Desktop\aşkım\aşkım\obj\Debug\net8.0-windows\aşkım.pdb
 C:\Users\A\Desktop\aşkım\aşkım\obj\Debug\net8.0-windows\aşkım.genruntimeconfig.cache
 C:\Users\A\Desktop\aşkım\aşkım\obj\Debug\net8.0-windows\ref\aşkım.dll
+C:\Users\A\Desktop\aşkım\aşkım\obj\Debug\net8.0-windows\aşkım.sourcelink.json
